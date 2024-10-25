@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://degejodi.github.io/sitemap/sitemap_index.degejodi
+Sitemap: https://degejodi.github.io/fYk/sitemap_index.degejodi
+Sitemap: https://degejodi.github.io/ZXw/sitemap_index.degejodi
+Sitemap: https://degejodi.github.io/ESC/sitemap_index.degejodi
+Sitemap: https://degejodi.github.io/kvx/sitemap_index.degejodi
+Sitemap: https://degejodi.github.io/CfD/sitemap_index.degejodi
+Sitemap: https://degejodi.github.io/MkR/sitemap_index.degejodi
+Sitemap: https://degejodi.github.io/xGZ/sitemap_index.degejodi
+Sitemap: https://degejodi.github.io/QUt/sitemap_index.degejodi
+Sitemap: https://degejodi.github.io/AqI/sitemap_index.degejodi
+Sitemap: https://degejodi.github.io/aor/sitemap_index.degejodi
+Sitemap: https://degejodi.github.io/YBX/sitemap_index.degejodi
+Sitemap: https://degejodi.github.io/VZm/sitemap_index.degejodi
+Sitemap: https://degejodi.github.io/jKw/sitemap_index.degejodi
+Sitemap: https://degejodi.github.io/DZT/sitemap_index.degejodi
+Sitemap: https://degejodi.github.io/IDW/sitemap_index.degejodi
+Sitemap: https://degejodi.github.io/vkG/sitemap_index.degejodi
+Sitemap: https://degejodi.github.io/rAN/sitemap_index.degejodi
+Sitemap: https://degejodi.github.io/cLD/sitemap_index.degejodi
+Sitemap: https://degejodi.github.io/UGh/sitemap_index.degejodi
+Sitemap: https://degejodi.github.io/YnH/sitemap_index.degejodi
